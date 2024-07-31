@@ -4,11 +4,6 @@ A simple web browser built with Electron and React.
 
 ![](screenshot.png)
 
-## Credits
-
-- [Bootswatch](https://bootswatch.com/) for Cerulean theme for Bootstrap.
-- [Bootstrap Icons](https://icons.getbootstrap.com/)
-
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -39,3 +34,9 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+
+## Credits
+
+- [Bootswatch](https://bootswatch.com/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [Boilerplate](https://www.linkedin.com/pulse/building-web-browser-react-electron-miguel-rivas-perez-ja1kc/)
