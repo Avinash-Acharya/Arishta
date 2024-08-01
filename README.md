@@ -31,7 +31,7 @@ $ npm run build:mac
 $ npm run build:linux
 ```
 
-##Resources
+## Resources
 
 - [Doc](https://drive.google.com/file/d/1yMXj4zFtre5X4bAbOXJDUfzfmZJhbU3-/view?usp=drivesdk)
 - [YouTube](https://youtu.be/0mKPoEMAFxs)
